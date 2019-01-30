@@ -1,0 +1,1 @@
+std::string command="find / -name 'flag.txt' | tee /data/local/tmp/output.txt";
